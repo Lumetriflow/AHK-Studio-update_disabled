@@ -4,5 +4,7 @@
 Maybe it is just on my machine, but AHK-Studio still checks for update even after turning it off in settings.
 
 Original Creator of AHK-Studio 
+
 Website :- https://www.maestrith.com/ahk-studio/
+
 Github  :- https://github.com/maestrith/AHK-Studio
